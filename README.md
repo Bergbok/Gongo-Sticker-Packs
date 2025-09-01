@@ -1,12 +1,12 @@
-`Sticker Count: 228`
+`Sticker Count: 318`
 
 ### Usage
-
-To add these stickers on Signal, Viber or Telegram use [laggykiller's sticker-convert](https://github.com/laggykiller/sticker-convert).
 
 To add these on iMessage or WhatsApp you'll need to import them into a sticker app.  
 The sticker app ecosystem ***sucks***. [Sticker Maker Studio](https://getstickerpack.com/) is decent ([iOS](https://apps.apple.com/us/app/sticker-maker-studio/id1443326857)/[Android](https://play.google.com/store/apps/details?id=com.marsvard.stickermakerforwhatsapp)).  
 **Avoid:** [BeSticky](https://apps.apple.com/us/app/sticker-maker-besticky/id1457046754), [WhatSticker](https://apps.apple.com/us/app/whatsticker-sticker-maker/id1147094379), [Sticker.ly](https://apps.apple.com/us/app/sticker-ly-sticker-maker/id1458740001) & [Top Sticker Maker](https://apps.apple.com/us/app/top-sticker-maker-wasticker/id938243056)
+
+To add these stickers on Signal or Telegram use [laggykiller's sticker-convert](https://github.com/laggykiller/sticker-convert).
 
 <!-- 
 If you know a sticker app that:
@@ -35,6 +35,26 @@ please let me know. I couldn't find one.
 | ![](https://cdn.betterttv.net/emote/659d0f3a1e735fdf581452cc/3x.webp) | ![](https://cdn.7tv.app/emote/01JY1CQSQFYJ8XSD6137PCTZ7F/4x.webp) | ![](https://cdn.7tv.app/emote/01JY3YY8A9YP9V3KVRHK6Z041T/4x.webp) | ![](https://cdn.7tv.app/emote/01JY4RF8ZKKGJQSWNC0XFAP8P3/4x.webp) | ![](https://cdn.7tv.app/emote/01JY4ZXYY10N1HPSGHV7YQ0A5D/4x.webp) |
 |---|---|---|---|---|
 
+#### [fellas](./wastickers/fellas.wastickers)
+
+| ![](https://cdn.7tv.app/emote/01HGZM94V000018ZS8K7127F10/4x.webp)     | ![](https://cdn.7tv.app/emote/01GT0XQG500004J62EZBADHT6K/4x.webp)     | ![](https://cdn.7tv.app/emote/01HQZB6S2G0001WDAXDZ9ZQZ3E/4x.webp)     | ![](https://cdn.7tv.app/emote/01FP6SPEB00001BCZZ99DVK9W5/4x.webp)     | ![](https://cdn.betterttv.net/emote/64db4e502e35fa510001e7ef/3x.webp) |
+| --------------------------------------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| ![](https://cdn.7tv.app/emote/01J23QVR30000FQRZQPZ7GJG6C/4x.webp)     | ![](https://cdn.betterttv.net/emote/6583304e655549d9e45d2988/3x.webp) | ![](https://cdn.betterttv.net/emote/6402e59fe1d9a8e7b2885b6a/3x.webp) | ![](https://cdn.betterttv.net/emote/64c02280f91b095709efae9b/3x.webp) | ![](https://cdn.7tv.app/emote/01J5DNV010000CCRB4T3Y0QDHY/4x.webp)     |
+| ![](https://cdn.betterttv.net/emote/64b6c76799be8d7f9cdbec6d/3x.webp) | ![](https://cdn.7tv.app/emote/01JGSBGWX6X3BY2RR9DR4DDS81/4x.webp)     | ![](https://cdn.7tv.app/emote/01F6X1FPK00000374S98X97XKC/4x.webp)     | ![](https://cdn.7tv.app/emote/01F5VW2TKR0003RCV2Z6JBHCST/4x.webp)     | ![](https://cdn.betterttv.net/emote/642bda8092641ffc0427acd3/3x.webp) |
+| ![](https://cdn.betterttv.net/emote/63d70e8ccf46f037c1937397/3x.webp) | ![](https://cdn.betterttv.net/emote/6402e670e1d9a8e7b2885b83/3x.webp) | ![](https://cdn.betterttv.net/emote/5f38b8f3b2efd65d77e80a3b/3x.webp) | ![](https://cdn.7tv.app/emote/01H9JADJJR0008QVVK15MGJ4NY/4x.webp)     | ![](https://cdn.7tv.app/emote/01FA1DS298000CBKVRMD7V84PD/4x.webp)     |
+| ![](https://cdn.7tv.app/emote/01HCGB8FA80003RS1AH84ERC2Y/4x.webp)     | ![](https://cdn.7tv.app/emote/01H0Z109RG0005HNCSM10SZJS9/4x.webp)     | ![](https://cdn.betterttv.net/emote/6473e1778d9baf0ba80f2287/3x.webp) | ![](https://cdn.betterttv.net/emote/5e9f54fdce7cbf62fe15713a/3x.webp) | ![](https://cdn.betterttv.net/emote/64cac52c5f4802d5b15f2059/3x.webp) |
+| ![](https://cdn.betterttv.net/emote/64caaf145f4802d5b15f1f2b/3x.webp) | ![](https://cdn.betterttv.net/emote/64b2a98efb5565fe6ead09b6/3x.webp) | ![](https://cdn.betterttv.net/emote/651d06de07be8bd09bf1da1d/3x.webp) | ![](https://cdn.betterttv.net/emote/6583b9e805248d6eaa8b5c4c/3x.webp) | ![](https://cdn.7tv.app/emote/01GCCN64EG000EXFG0ZT5HJG05/4x.webp)     |
+
+#### [fellas 2](./wastickers/fellas%202.wastickers)
+
+| ![](https://cdn.7tv.app/emote/01GPRV67G00009D8SP1972B6Z6/4x.webp) | ![](https://cdn.7tv.app/emote/01HNZ9FRZ00006MJ9E5DCB2Z4K/2x.webp) | ![](https://cdn.betterttv.net/emote/62a14cbbaea70bba060753e5/3x.webp) | ![](https://cdn.7tv.app/emote/01GBFAYKGR000FWWN7MDZZ8XQN/4x.webp) | ![](https://cdn.7tv.app/emote/01J6YSSDRG000CKHTDYB3MANYJ/4x.webp) |
+| ----------------------------------------------------------------- | ----------------------------------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------- |
+| ![](https://cdn.7tv.app/emote/01J8ZBAF7G0008SGMD5K4B8ZTT/4x.webp) | ![](https://cdn.7tv.app/emote/01GSXCB5PR0000B2571TD8TVD8/4x.webp) | ![](https://cdn.7tv.app/emote/01HH35YN7G0009ZMRM0TQ0G2AJ/4x.webp)     | ![](https://cdn.7tv.app/emote/01FN4W6GH800071FCSB63SBEEA/4x.webp) | ![](https://cdn.7tv.app/emote/01GZQPJB300008KR4D3T6Z4VVV/4x.webp) |
+| ![](https://cdn.7tv.app/emote/01H2272AM8000CVRT9DGWRAMCP/4x.webp) | ![](https://cdn.7tv.app/emote/01FJQSW010000FZHS49NWQSYEJ/4x.webp) | ![](https://cdn.7tv.app/emote/01GV6989XR000203NVGJC55S9J/4x.webp)     | ![](https://cdn.7tv.app/emote/01HS24VPX8000BKJ8Q2KW49NDS/4x.webp) | ![](https://cdn.7tv.app/emote/01GNEEB9800006710B46MR7Y59/4x.webp) |
+| ![](https://cdn.7tv.app/emote/01F6ZVTNAR0006HH78F280D4TQ/4x.webp) | ![](https://cdn.7tv.app/emote/01H9CA48AR000EKTW7YX78MFRW/4x.webp) | ![](https://cdn.7tv.app/emote/01H7XXRSX8000BFKG18D1TYCRV/4x.webp)     | ![](https://cdn.7tv.app/emote/01JJ7R0GKPXTDVGRJ3NHGGAHX6/4x.webp) | ![](https://cdn.7tv.app/emote/01H8DPGW40000FSPRSEVVJMJPF/4x.webp) |
+| ![](https://cdn.7tv.app/emote/01HZ2AQNKR000396FKBWMCF6PM/4x.webp) | ![](https://cdn.7tv.app/emote/01H4TDQCZ8000CFM42WXQQ43CY/4x.webp) | ![](https://cdn.7tv.app/emote/01GWDQTYP8000DK9PQK54JBJZ6/4x.webp)     | ![](https://cdn.7tv.app/emote/01HXF5NC98000AFEVAVTB3A55D/4x.webp) | ![](https://cdn.7tv.app/emote/01FRBEQ2CG000CX2YMMPEBH3FK/4x.webp) |
+| ![](https://cdn.7tv.app/emote/01F5PXJWVG00034VRANA2V6JJ5/4x.webp) | ![](https://cdn.7tv.app/emote/01HFKXR91G0007YD9NGVY8SHQ1/4x.webp) | ![](https://cdn.7tv.app/emote/01GR9WXMRR000A0EDPA8PDTFN8/4x.webp)     | ![](https://cdn.7tv.app/emote/01GXKYSGBG000A4FN34W5CETQ7/4x.webp) | ![](https://cdn.7tv.app/emote/01J1WYFJE0000EMV6X5DZ33Z8M/4x.webp) |
+
 #### [food](./wastickers/food.wastickers)
 
 | ![](https://cdn.betterttv.net/emote/6445c8ec0a2b0482277ee14b/3x.webp) | ![](https://cdn.7tv.app/emote/01F9G99278000E0F0BJY6SFHKJ/4x.webp)     | ![](https://cdn.7tv.app/emote/01FJBPR3XG0005ZW4QCZF2K1RG/4x.webp)                           | ![](https://cdn.betterttv.net/emote/5e202f7abca2995f13fb8dd4/3x.webp) | ![](https://cdn.7tv.app/emote/01G08YWPHR000B1QY5NTR418NB/4x.webp)     |
@@ -44,6 +64,16 @@ please let me know. I couldn't find one.
 | ![](https://cdn.7tv.app/emote/01J2K29EAR000D08M7X51E895W/4x.webp)     | ![](https://cdn.7tv.app/emote/01JDV9HMMCZZYSWNZ8CAKE99E2/4x.webp)     | <p align='center'>![](https://cdn.betterttv.net/emote/63c60ff6999b53d39ed7377d/3x.webp)</p> | ![](https://cdn.7tv.app/emote/01J2GCX2S8000D08M7X51E83NF/4x.webp)     | ![](https://cdn.7tv.app/emote/01J2GC3GDR0004XKCXV7SNYN97/4x.webp)     |
 | ![](https://cdn.7tv.app/emote/01J2GDGNQR0006YFK521XXWG38/4x.webp)     | ![](https://cdn.7tv.app/emote/01J2GC42ZG0005H5EVE0TPEAWP/4x.webp)     | ![](https://cdn.7tv.app/emote/01JQVZ5BFPKNNFQAQB79JEXZFN/4x.webp)                           | ![](https://cdn.7tv.app/emote/01JY57JG2RVKJNNY1AASVG993P/2x.webp)     | ![](https://cdn.betterttv.net/emote/62c2ba438fd4516906a8e1b2/3x.webp) |
 | ![](https://cdn.7tv.app/emote/01JY90BDA7XR05KFCFFGNDVCVC/2x.webp)     | ![](https://cdn.betterttv.net/emote/6513c34ee1a04f2c77078e3e/3x.webp) | <p align='center'>![](https://cdn.7tv.app/emote/01JYNPMCM5TTN1MAS34J9V06F1/4x.webp)</p>     | ![](https://cdn.7tv.app/emote/01K0RMK4R9C8TEPTECADVBM7JP/4x.webp)     | ![](https://cdn.betterttv.net/emote/620f585a06fd6a9f5be4e138/3x.webp) |
+
+#### [gongi](./wastickers/gongi.wastickers)
+
+| ![](https://cdn.7tv.app/emote/01GQHKYBRR0007HP3X85ZD7WCG/4x.webp)     | ![](https://cdn.betterttv.net/emote/64b0eecffb5565fe6eaced60/3x.webp) | ![](https://cdn.7tv.app/emote/01JE8Z1NTYDMRQ7HM4HZJ48JT4/4x.webp)     | ![](https://cdn.7tv.app/emote/01K0BVGJN3FWV1891W1CDH386F/4x.webp)     | ![](https://cdn.7tv.app/emote/01HYSD4DJ0000396FKBWMCEJYW/2x.webp)     |
+| --------------------------------------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| ![](https://cdn.7tv.app/emote/01GWEJXZT00002CCPRV6KPXGW6/4x.webp)     | ![](https://cdn.betterttv.net/emote/60c84739f8b3f62601c3e058/3x.webp) | ![](https://cdn.betterttv.net/emote/61ed07a306fd6a9f5be1cb37/3x.webp) | ![](https://cdn.betterttv.net/emote/5ee54fa0fdee545e30673a45/3x.webp) | ![](https://cdn.betterttv.net/emote/6624a384407bff50d709a71f/3x.webp) |
+| ![](https://cdn.7tv.app/emote/01GAN2W85G000A5BXGY3W306GE/4x.webp)     | ![](https://cdn.betterttv.net/emote/65e2cefc3af877b0fd2e3c23/3x.webp) | ![](https://cdn.7tv.app/emote/01JACXKKD800081REZZKQR0T49/4x.webp)     | ![](https://cdn.betterttv.net/emote/638412e5b9076d0aaebd3bb6/2x.webp) | ![](https://cdn.betterttv.net/emote/632d3a32ee60425d31b63c89/3x.webp) |
+| ![](https://cdn.betterttv.net/emote/5f96ca79473f4802fe47d176/3x.webp) | ![](https://cdn.7tv.app/emote/01H06303J00000NP82Y2WRXF6C/4x.webp)     | ![](https://cdn.7tv.app/emote/01HRMXQ5200008EJM05NVB2GKY/4x.webp)     | ![](https://cdn.betterttv.net/emote/626d14133c6f14b68846a096/3x.webp) | ![](https://cdn.7tv.app/emote/01JNWWB15PNNKM8F109KPGTKVJ/4x.webp)     |
+| ![](https://cdn.7tv.app/emote/01G20WN3B8000BV71FVX4A9YFP/4x.webp)     | ![](https://cdn.betterttv.net/emote/63291f7eee60425d31b5f8bc/3x.webp) | ![](https://cdn.7tv.app/emote/01HPSZTQMR0006EJKWY8X7TGVP/4x.webp)     | ![](https://cdn.7tv.app/emote/01HRA26RGR000B11HAFPEPA5FT/4x.webp)     | ![](https://cdn.7tv.app/emote/01HQJWBVZR000669HTZR527J26/4x.webp)     |
+| ![](https://cdn.7tv.app/emote/01GX6M9TRR000DJJ63WGMEA4Z8/4x.webp)     | ![](https://cdn.7tv.app/emote/01H0SQNM9R0005HNCSM10SYJEQ/4x.webp)     | ![](https://cdn.7tv.app/emote/01FS5ZCFG0000500DPPCXJWCP8/4x.webp)     | ![](https://cdn.7tv.app/emote/01G4ZTECKR0002P97QQ94BDSP4/4x.webp)     | ![](https://cdn.7tv.app/emote/01G3C7CTS8000DSQYHZEZBYRH9/4x.webp)     |
 
 #### [green guys](./wastickers/green%20guys.wastickers)
 
